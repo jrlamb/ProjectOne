@@ -22,6 +22,7 @@ public class Televisor {
     
     public void desligar(){
         System.out.println("a tv " + marca + " foi desligada");
+        System.out.println("Boa noite");
     }
 }
 
