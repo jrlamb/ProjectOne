@@ -9,7 +9,7 @@ package Movie;
  * @author marco
  */
 public class Pipoca {
-    public void estourar(String[] args) {
+    public void estourar() {
         System.out.println("Pow!!");
     }
 }

@@ -10,7 +10,7 @@ package Movie;
  * @author utfpr
  */
 public class Luz {
-      public void aumentarIntensidade(String[] args) {
+      public void aumentarIntensidade() {
         System.out.println("Intensidade da luz do ambiente aumentada");
     }
       public void diminuirIntensidade(){
