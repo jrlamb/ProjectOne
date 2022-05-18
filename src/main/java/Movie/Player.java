@@ -12,19 +12,19 @@ public class Player {
     String filme;
     
     public void play(){
-        System.out.println("Iniciou o filme: "+ filme +);
+        System.out.println("Iniciou o filme: "+ filme );
     }
     
     public void stop(){
-        System.out.println("Pausou o filme: "+ filme +);
+        System.out.println("Pausou o filme: "+ filme );
     }
     
     public void insert(){
-        System.out.println("Inseriu o filme: "+ filme +);
+        System.out.println("Inseriu o filme: "+ filme );
     }
     
     public void eject(){
-        System.out.println("Ejetou o filme: "+ filme +);
+        System.out.println("Ejetou o filme: "+ filme );
     }
 }
 
