@@ -12,6 +12,6 @@ package utfpr.edu.br.projectone;
 public class ProjectOne {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        System.out.println("Bem vindo ao Facade Pattern");
     }
 }
