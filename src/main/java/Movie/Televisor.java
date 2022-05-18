@@ -10,13 +10,18 @@ package Movie;
  */
 public class Televisor {
     String marca;
+
+    public Televisor(String marca) {
+        this.marca = marca;
+    }  
+    
     
     public void ligar(){
-        System.out.println("a tv foi ligada");
+        System.out.println("a tv " + marca + " foi ligada");
     }
     
     public void desligar(){
-        System.out.println("a tv foi desligada");
+        System.out.println("a tv " + marca + " foi desligada");
     }
 }
 
